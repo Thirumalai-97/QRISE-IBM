@@ -14,6 +14,7 @@
 - [A randomized benchmarking suite for mid-circuit measurements](https://iopscience.iop.org/article/10.1088/1367-2630/ad0e19)
 - [Dynamic quantum circuit compilation](https://arxiv.org/pdf/2310.11021.pdf)
 - [Towards Verification of Dynamic Quantum Circuits](https://www.researchgate.net/publication/352081239_Towards_Verification_of_Dynamic_Quantum_Circuits)
+- [Quantum Dynamic Programming](https://arxiv.org/pdf/2403.09187.pdf)
   
 ## 3. Online Blogs and articles 
 
