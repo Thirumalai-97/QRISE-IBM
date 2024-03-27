@@ -1,7 +1,5 @@
 # QRISE IBM Challenges
 
-## The Grand Complete Dynamic Circuits Guide With Videos And Materials
-
 ## 1. Youtube Lecture & Workshop Videos 
 
 - [Efficient Long-Range Entanglement using Dynamic Circuits with **Elisa Bäumer**](https://www.youtube.com/live/BEFK1XTiiPc?si=RXE4_MDDKdCtMZ7P)
