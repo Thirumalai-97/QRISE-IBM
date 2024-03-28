@@ -14,7 +14,16 @@
 - [Towards Verification of Dynamic Quantum Circuits](https://www.researchgate.net/publication/352081239_Towards_Verification_of_Dynamic_Quantum_Circuits)
 - [Quantum Dynamic Programming](https://arxiv.org/pdf/2403.09187.pdf)
 - [Quantum Fourier Transform using Dynamic Circuits](https://arxiv.org/pdf/2403.09514.pdf)
-  
+- [Scaling quantum computing with dynamic circuits](https://arxiv.org/pdf/2402.17833.pdf)
+- [High-fidelity, multi-qubit generalized measurements with dynamic circuits](https://arxiv.org/pdf/2312.14087.pdf)
+- [Exploiting dynamic quantum circuits in a quantum algorithm with superconducting qubits](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.127.100501)
+- [A randomized benchmarking suite for mid-circuit measurements](https://arxiv.org/abs/2207.04836)
+- [Realizing the Nishimori transition across the error threshold for constant-depth quantum circuits](https://arxiv.org/abs/2309.02863)
+- [Measurement as a Shortcut to Long-Range Entangled Quantum Matter](https://journals.aps.org/prxquantum/pdf/10.1103/PRXQuantum.3.040337)
+- [Deterministic Constant-Depth Preparation of the AKLT State on a Quantum Processor Using Fusion Measurements](https://journals.aps.org/prxquantum/pdf/10.1103/PRXQuantum.4.020315)
+- [Generation and verification of 27-qubit Greenberger-Horne-Zeilinger states in a superconducting quantum computer](https://iopscience.iop.org/article/10.1088/2399-6528/ac1df7/pdf)
+
+
 ## 3. Online Blogs and articles 
 
 - [IBM Quantum Research Blogs on Dynamic  Circuits](https://www.ibm.com/quantum/blog/quantum-dynamic-circuits)
@@ -25,3 +34,4 @@
 - [IBM Quantum Challenges 2023](https://github.com/qiskit-community/ibm-quantum-challenge-spring-2023/blob/main/solutions/lab_1/lab1_solution.ipynb)
 - [Repeat until a syndrome measurement reveals it has success](https://learning.quantum.ibm.com/tutorial/repeat-until-success)
 - [Build repetition codes using Dynamic Circuits](https://learning.quantum.ibm.com/tutorial/build-repetition-codes)
+- [Dynamic Cirvuit POVM](https://github.com/petr-ivashkov/dynamic-circuit-povms)
