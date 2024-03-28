@@ -1,5 +1,6 @@
 # QRISE IBM Challenges
-
+#### IEEE Quantum Week 2024
+[Submit](https://qce.quantum.ieee.org/2024/authors/submission-deadlines/) and [details](https://qce.quantum.ieee.org/2024/call-for-technical-papers/).
 ## 1. Youtube Lecture & Workshop Videos 
 
 - [Efficient Long-Range Entanglement using Dynamic Circuits with **Elisa Bäumer**](https://www.youtube.com/live/BEFK1XTiiPc?si=RXE4_MDDKdCtMZ7P)
