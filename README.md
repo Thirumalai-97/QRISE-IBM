@@ -25,6 +25,7 @@
 - [Measurement as a Shortcut to Long-Range Entangled Quantum Matter](https://journals.aps.org/prxquantum/pdf/10.1103/PRXQuantum.3.040337)
 - [Deterministic Constant-Depth Preparation of the AKLT State on a Quantum Processor Using Fusion Measurements](https://journals.aps.org/prxquantum/pdf/10.1103/PRXQuantum.4.020315)
 - [Generation and verification of 27-qubit Greenberger-Horne-Zeilinger states in a superconducting quantum computer](https://iopscience.iop.org/article/10.1088/2399-6528/ac1df7/pdf)
+- [Characterizing Midcircuit Measurements on a Superconducting Qubit Using Gate Set Tomography]([)](https://journals.aps.org/prapplied/pdf/10.1103/PhysRevApplied.17.014014)
 
 
 ## 3. Online Blogs and articles 
