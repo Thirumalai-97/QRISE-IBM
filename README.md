@@ -32,6 +32,7 @@
 
 - [IBM Quantum Research Blogs on Dynamic  Circuits](https://www.ibm.com/quantum/blog/quantum-dynamic-circuits)
 - [Classical feedforward and control flow **IBM Quantum Docs**](https://docs.quantum.ibm.com/build/classical-feedforward-and-control-flow)
+- [Quantum convolutional neural network for classical data classification](https://arxiv.org/abs/2108.00661)
 
 ## 3. Used cases and applications
 
